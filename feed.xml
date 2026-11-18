@@ -4,10 +4,17 @@
     <title>Rocket League Competitive Mechanics &amp; Scrims Hub</title>
     <link>https://rocket-league-competitive-mechanics-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 11:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:29:35 GMT</lastBuildDate>
     <atom:link href="https://rocket-league-competitive-mechanics-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
+      <link>https://www.reddit.com/r/hardware/</link>
+      <guid isPermaLink="false">https://rocket-league-competitive-mechanics-hub.netlify.app/#rocket-league-competitive-mechanics-hub-reddit-20261118-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:29:35 GMT</pubDate>
+      <description>Newly verified community added to Rocket League Competitive Mechanics &amp; Scrims Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
+    </item>
+<item>
       <title>Rocket League Competitive Mechanics &amp; Scrims Hub Initial Release</title>
       <link>https://rocket-league-competitive-mechanics-hub.netlify.app/</link>
       <pubDate>Thu, 17 Sep 2026 11:30:35 GMT</pubDate>
