@@ -4,10 +4,17 @@
     <title>Rocket League Competitive Mechanics &amp; Scrims Hub</title>
     <link>https://rocket-league-competitive-mechanics-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:09:48 GMT</lastBuildDate>
     <atom:link href="https://rocket-league-competitive-mechanics-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-            <item>
+                <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://rocket-league-competitive-mechanics-hub.netlify.app/#rocket-league-competitive-mechanics-hub-reddit-20261120-1-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:09:48 GMT</pubDate>
+      <description>Newly verified community added to Rocket League Competitive Mechanics &amp; Scrims Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://rocket-league-competitive-mechanics-hub.netlify.app/#rocket-league-competitive-mechanics-hub-reddit-20261119-1-2026-11-19</guid>
